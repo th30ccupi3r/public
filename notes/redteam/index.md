@@ -1,2 +1,0 @@
-# Redteam Notebook
-This 
